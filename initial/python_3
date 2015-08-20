@@ -15,3 +15,5 @@ if __name__ == "__main__":
     assert non_unique(['P', 7, 'j', 'A', 'P', 'N', 'Z', 'i',
                        'A', 'X', 'j', 'L', 'y', 's', 'K', 'g',
                        'p', 'r', 7, 'b']) == ['P', 7, 'j', 'A', 'P', 'A', 'j', 'p', 7], "Letters"
+
+    print("All done? Earn rewards by using the 'Check' button!")
